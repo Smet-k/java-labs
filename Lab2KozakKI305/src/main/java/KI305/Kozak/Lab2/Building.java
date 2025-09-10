@@ -1,3 +1,4 @@
+/**Пакет до лабораторної 2 */
 package KI305.Kozak.Lab2;
 
 import java.io.FileWriter;
